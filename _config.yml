@@ -23,7 +23,7 @@ email: etk48@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
   The worlds I imagined while waiting for my eggs, boiled down into text and salted according to my liking. Please enjoy.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://boilingeggs.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://emkam17.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  emkam17
 
